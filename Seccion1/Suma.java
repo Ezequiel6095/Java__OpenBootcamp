@@ -1,4 +1,4 @@
-package CalculadoraSimple;
+package Entregas.Java_Principiante_OpenBootcamp.Seccion1;
 
 import java.util.Scanner;
 
