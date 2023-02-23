@@ -1,4 +1,4 @@
-package Entregas.Java_Principiante_OpenBootcamp.Seccion2;
+package Entregas.Java__OpenBootcamp.Seccion2;
 
 import java.util.Scanner;
 
