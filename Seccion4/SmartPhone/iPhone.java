@@ -10,7 +10,7 @@ public class iPhone extends Dispositivos {
 
     }
 
-    public iPhone(String marca, String modelo, int precio, String modelo1, int capacidad, int bateria) {
+    public iPhone(String marca, String modelo, int precio, String procesador, int capacidad, int bateria) {
         super(marca, modelo, precio);
         this.procesador = procesador;
         this.capacidad = capacidad;
